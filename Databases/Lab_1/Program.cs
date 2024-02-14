@@ -65,6 +65,7 @@ namespace Lab_1
                         break;
                 }
 
+
                 if (exit)
                     break;
             }

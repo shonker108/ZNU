@@ -128,9 +128,11 @@ namespace Util
 
             Console.WriteLine("Press Enter to continue...");
 
-            Console.Read();
-            Thread.Sleep(1000);
-            Console.Clear();
+            if (Console.ReadKey().Key == ConsoleKey.Enter)
+            {
+                Thread.Sleep(1000);
+                Console.Clear();
+            }
         }
 
         public void AddNewOrder()
