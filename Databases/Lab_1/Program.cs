@@ -12,7 +12,7 @@ namespace Lab_1
 
             if (!dbManager.LoadDatabase())
             {
-                Console.WriteLine("Exiting the program...");
+                Console.WriteLine("Can't load the database. Exiting the program...");
                 Thread.Sleep(1000);
                 return;
             }

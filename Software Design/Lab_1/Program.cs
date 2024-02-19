@@ -6,7 +6,7 @@
         static void Main(string[] args)
         {
             // Якщо треба знайти добуток елементів на головній діагоналі масиву,
-            // то він має бути квадратним
+            // то він має бути квадратним, тому маємо масив розміром M * M
             int m = GetUserInput("Enter M");
 
             int[][] arr = new int[m][];
@@ -25,7 +25,7 @@
                     Console.Write($"{arr[i][j]}\t");
 
                     // Якщо ми на головній діагоналі, домножити до результату значення з масиву
-                    if (i == j)
+                    if (i == j && arr[i][j] < 0)
                         product *= arr[i][j];
                 }
 
@@ -42,8 +42,13 @@
             while (true)
             {
                 if (int.TryParse(Console.ReadLine(), out int input))
+                {
+                    Console.WriteLine();
+
                     return input;
+                }
             }
+
         }
     }
 }

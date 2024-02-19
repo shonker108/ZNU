@@ -1,0 +1,17 @@
+D:\repos\ZNU\Software Engineering Basics\Lab_3\bin\Debug\net8.0-windows\Lab_3.exe
+D:\repos\ZNU\Software Engineering Basics\Lab_3\bin\Debug\net8.0-windows\Lab_3.deps.json
+D:\repos\ZNU\Software Engineering Basics\Lab_3\bin\Debug\net8.0-windows\Lab_3.runtimeconfig.json
+D:\repos\ZNU\Software Engineering Basics\Lab_3\bin\Debug\net8.0-windows\Lab_3.dll
+D:\repos\ZNU\Software Engineering Basics\Lab_3\bin\Debug\net8.0-windows\Lab_3.pdb
+D:\repos\ZNU\Software Engineering Basics\Lab_3\obj\Debug\net8.0-windows\Lab_3.Form1.resources
+D:\repos\ZNU\Software Engineering Basics\Lab_3\obj\Debug\net8.0-windows\Lab_3.csproj.GenerateResource.cache
+D:\repos\ZNU\Software Engineering Basics\Lab_3\obj\Debug\net8.0-windows\Lab_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\ZNU\Software Engineering Basics\Lab_3\obj\Debug\net8.0-windows\Lab_3.AssemblyInfoInputs.cache
+D:\repos\ZNU\Software Engineering Basics\Lab_3\obj\Debug\net8.0-windows\Lab_3.AssemblyInfo.cs
+D:\repos\ZNU\Software Engineering Basics\Lab_3\obj\Debug\net8.0-windows\Lab_3.csproj.CoreCompileInputs.cache
+D:\repos\ZNU\Software Engineering Basics\Lab_3\obj\Debug\net8.0-windows\Lab_3.sourcelink.json
+D:\repos\ZNU\Software Engineering Basics\Lab_3\obj\Debug\net8.0-windows\Lab_3.dll
+D:\repos\ZNU\Software Engineering Basics\Lab_3\obj\Debug\net8.0-windows\refint\Lab_3.dll
+D:\repos\ZNU\Software Engineering Basics\Lab_3\obj\Debug\net8.0-windows\Lab_3.pdb
+D:\repos\ZNU\Software Engineering Basics\Lab_3\obj\Debug\net8.0-windows\Lab_3.genruntimeconfig.cache
+D:\repos\ZNU\Software Engineering Basics\Lab_3\obj\Debug\net8.0-windows\ref\Lab_3.dll

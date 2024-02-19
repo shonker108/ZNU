@@ -233,7 +233,7 @@ namespace Util
             }
             else
             {
-                if (index < 1 || index >= ordersDatabase.Count)
+                if (index < 1 || index > ordersDatabase.Count)
                 {
                     Console.WriteLine("Can't find an order with a given index. Returning to the menu");
                     return;
@@ -293,13 +293,13 @@ namespace Util
                 if (item.name == "")
                     item.name = order.items[i].name;
 
-                Console.Write("Count (Enter anything but not a number to keep the value the same): ");
+                Console.Write("Count: ");
                 if (int.TryParse(Console.ReadLine(), out int count))
                 {
                     item.count = count;
                 }
 
-                Console.Write("Price per one (USD) (Enter anything but not a number to keep the value the same): ");
+                Console.Write("Price per one (USD): ");
                 if (float.TryParse(Console.ReadLine(), out float pricePerOne))
                 {
                     item.pricePerOne = pricePerOne;
@@ -333,7 +333,7 @@ namespace Util
             }
             else
             {
-                if (index < 1 || index >= ordersDatabase.Count)
+                if (index < 1 || index > ordersDatabase.Count)
                 {
                     Console.WriteLine("Can't find an order with a given index. Returning to the menu");
                     return;
