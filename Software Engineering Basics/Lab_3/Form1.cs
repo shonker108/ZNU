@@ -15,18 +15,18 @@ namespace Lab_3
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void openFileButton_Click(object sender, EventArgs e)
         {
             try
             {
-                string fileName = fileNameTextBox.Text;
+                openFileDialog = new System.Windows.Forms.OpenFileDialog();
+                openFileDialog.ShowDialog();
 
-                if (fileName.Length == 0)
-                {
-                    throw new Exception("File name length equals to 0");
-                }
+                string fileName = openFileDialog.FileName;
 
-                string pathToFile = pathToFiles + "\\" + fileName;
+                fileNameTextBox.Text = new FileInfo(fileName).Name;
+
+                string pathToFile = fileName;
 
                 if (!File.Exists(pathToFile))
                 {

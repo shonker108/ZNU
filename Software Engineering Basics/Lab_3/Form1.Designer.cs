@@ -28,23 +28,24 @@
         /// </summary>
         private void InitializeComponent()
         {
-            confirmButton = new Button();
+            openFileButton = new Button();
             label1 = new Label();
             fileNameTextBox = new TextBox();
             fileContentTextBox = new TextBox();
             fileStatisticTextBox = new TextBox();
             trimButton = new Button();
+            openFileDialog = new OpenFileDialog();
             SuspendLayout();
             // 
-            // confirmButton
+            // openFileButton
             // 
-            confirmButton.Location = new Point(12, 12);
-            confirmButton.Name = "confirmButton";
-            confirmButton.Size = new Size(94, 29);
-            confirmButton.TabIndex = 0;
-            confirmButton.Text = "Confirm";
-            confirmButton.UseVisualStyleBackColor = true;
-            confirmButton.Click += button1_Click;
+            openFileButton.Location = new Point(12, 12);
+            openFileButton.Name = "openFileButton";
+            openFileButton.Size = new Size(94, 29);
+            openFileButton.TabIndex = 0;
+            openFileButton.Text = "Open File";
+            openFileButton.UseVisualStyleBackColor = true;
+            openFileButton.Click += openFileButton_Click;
             // 
             // label1
             // 
@@ -59,6 +60,7 @@
             // 
             fileNameTextBox.Location = new Point(238, 14);
             fileNameTextBox.Name = "fileNameTextBox";
+            fileNameTextBox.ReadOnly = true;
             fileNameTextBox.Size = new Size(178, 27);
             fileNameTextBox.TabIndex = 2;
             // 
@@ -94,6 +96,11 @@
             trimButton.UseVisualStyleBackColor = true;
             trimButton.Click += trimButton_Click;
             // 
+            // openFileDialog
+            // 
+            openFileDialog.FileName = "openFileDialog1";
+            openFileDialog.Filter = "All files | *.*";
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
@@ -104,7 +111,7 @@
             Controls.Add(fileContentTextBox);
             Controls.Add(fileNameTextBox);
             Controls.Add(label1);
-            Controls.Add(confirmButton);
+            Controls.Add(openFileButton);
             Name = "Form1";
             Text = "Lab 3";
             ResumeLayout(false);
@@ -113,11 +120,12 @@
 
         #endregion
 
-        private Button confirmButton;
+        private Button openFileButton;
         private Label label1;
         private TextBox fileNameTextBox;
         private TextBox fileContentTextBox;
         private TextBox fileStatisticTextBox;
         private Button trimButton;
+        private OpenFileDialog openFileDialog;
     }
 }
