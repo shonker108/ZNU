@@ -32,6 +32,8 @@
             label1 = new Label();
             fileNameTextBox = new TextBox();
             fileContentTextBox = new TextBox();
+            fileStatisticTextBox = new TextBox();
+            trimButton = new Button();
             SuspendLayout();
             // 
             // confirmButton
@@ -71,17 +73,40 @@
             fileContentTextBox.TabIndex = 3;
             fileContentTextBox.Text = "There will be file content here...\r\n";
             // 
+            // fileStatisticTextBox
+            // 
+            fileStatisticTextBox.Location = new Point(422, 47);
+            fileStatisticTextBox.Multiline = true;
+            fileStatisticTextBox.Name = "fileStatisticTextBox";
+            fileStatisticTextBox.ReadOnly = true;
+            fileStatisticTextBox.ScrollBars = ScrollBars.Vertical;
+            fileStatisticTextBox.Size = new Size(295, 391);
+            fileStatisticTextBox.TabIndex = 4;
+            fileStatisticTextBox.Text = "File statistic will be here...";
+            // 
+            // trimButton
+            // 
+            trimButton.Location = new Point(422, 14);
+            trimButton.Name = "trimButton";
+            trimButton.Size = new Size(94, 29);
+            trimButton.TabIndex = 5;
+            trimButton.Text = "Trim file";
+            trimButton.UseVisualStyleBackColor = true;
+            trimButton.Click += trimButton_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(428, 450);
+            ClientSize = new Size(729, 450);
+            Controls.Add(trimButton);
+            Controls.Add(fileStatisticTextBox);
             Controls.Add(fileContentTextBox);
             Controls.Add(fileNameTextBox);
             Controls.Add(label1);
             Controls.Add(confirmButton);
             Name = "Form1";
-            Text = "Form1";
+            Text = "Lab 3";
             ResumeLayout(false);
             PerformLayout();
         }
@@ -92,5 +117,7 @@
         private Label label1;
         private TextBox fileNameTextBox;
         private TextBox fileContentTextBox;
+        private TextBox fileStatisticTextBox;
+        private Button trimButton;
     }
 }
