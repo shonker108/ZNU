@@ -1,11 +1,12 @@
-some text
+some textsome 
 this is a second line
-a third
+a thirdGFDGDFGRET
 and
 so
 on
 
-тут є      український текст ґґґ   
+тут є      український текст ґґґ український   український   
 
 цей, текст % має ? пунктуаційні ) та
 - спеціальні ;! символи|
+1234
