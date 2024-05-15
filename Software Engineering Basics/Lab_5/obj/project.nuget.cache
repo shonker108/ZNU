@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nCCXtZaG35ZstQACy52fBqRNZ/m8wds7hWEKaq3jNnt13az4rnA4GN6CZhGM1evBr1Z9hXEus+4blUiyyRkrBQ==",
+  "success": true,
+  "projectFilePath": "D:\\repos\\ZNU\\Software Engineering Basics\\Lab_5\\Lab_5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kruas\\.nuget\\packages\\htmlagilitypack\\1.11.59\\htmlagilitypack.1.11.59.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+D:\repos\ZNU\Software Engineering Basics\Lab_6\bin\Debug\net8.0\Lab_6.exe
+D:\repos\ZNU\Software Engineering Basics\Lab_6\bin\Debug\net8.0\Lab_6.deps.json
+D:\repos\ZNU\Software Engineering Basics\Lab_6\bin\Debug\net8.0\Lab_6.runtimeconfig.json
+D:\repos\ZNU\Software Engineering Basics\Lab_6\bin\Debug\net8.0\Lab_6.dll
+D:\repos\ZNU\Software Engineering Basics\Lab_6\bin\Debug\net8.0\Lab_6.pdb
+D:\repos\ZNU\Software Engineering Basics\Lab_6\obj\Debug\net8.0\Lab_6.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\ZNU\Software Engineering Basics\Lab_6\obj\Debug\net8.0\Lab_6.AssemblyInfoInputs.cache
+D:\repos\ZNU\Software Engineering Basics\Lab_6\obj\Debug\net8.0\Lab_6.AssemblyInfo.cs
+D:\repos\ZNU\Software Engineering Basics\Lab_6\obj\Debug\net8.0\Lab_6.csproj.CoreCompileInputs.cache
+D:\repos\ZNU\Software Engineering Basics\Lab_6\obj\Debug\net8.0\Lab_6.sourcelink.json
+D:\repos\ZNU\Software Engineering Basics\Lab_6\obj\Debug\net8.0\Lab_6.dll
+D:\repos\ZNU\Software Engineering Basics\Lab_6\obj\Debug\net8.0\refint\Lab_6.dll
+D:\repos\ZNU\Software Engineering Basics\Lab_6\obj\Debug\net8.0\Lab_6.pdb
+D:\repos\ZNU\Software Engineering Basics\Lab_6\obj\Debug\net8.0\Lab_6.genruntimeconfig.cache
+D:\repos\ZNU\Software Engineering Basics\Lab_6\obj\Debug\net8.0\ref\Lab_6.dll

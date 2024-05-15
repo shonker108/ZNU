@@ -1,0 +1,686 @@
+<!DOCTYPE html>
+<html lang="uk">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Новини пресслужби ЗНУ - ЗНУ</title>
+
+        <link rel="stylesheet" 
+              href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"
+              integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p"
+              crossorigin="anonymous"/>
+		<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
+ <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+        <link href='https://fonts.googleapis.com/css?family=Lobster&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+
+
+        <link rel="preload"
+              href="//www.znu.edu.ua/cms/index.php?action=scss%2Fget&site_id=27&f=znu12files/css/{css || common}.scss"
+              as="style">
+        <link rel='stylesheet'
+              id='znu-css-screen'  
+		      href='//www.znu.edu.ua/cms/index.php?action=scss%2Fget&site_id=27&f=znu12files/css/{css || common}.scss' 
+		      type='text/css'
+              media='screen' />
+
+        <link rel="preload"
+              href="//www.znu.edu.ua/cms/index.php?action=scss%2Fget&site_id=27&f=znu12files/css/print.scss"
+              as="style">
+        <link rel='stylesheet'
+              id='znu-css-print'
+              data-href="//www.znu.edu.ua/cms/index.php?action=scss%2Fget&site_id=27&f=znu12files/css/print.scss" href='//www.znu.edu.ua/cms/index.php?action=scss%2Fget&site_id=27&f=znu12files/css/print.scss'
+              type='text/css'
+              media='print' />
+
+        
+        <script type="application/javascript">
+        window.openPP = function() {
+          var printPreview = window.open(window.location.href+'#printable', 'print_preview', "resizable=yes,scrollbars=yes,status=yes,menubar=yes");
+        };
+
+        (function() {
+            var cx = '001628149911368107708:azrus5l4l9c';
+            var gcse = document.createElement('script');
+            gcse.type = 'text/javascript';
+            gcse.async = true;
+            gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(gcse, s);
+        })();
+        </script>
+        <style type="text/css">
+         .search .gsc-control-cse{
+            border-color: transparent;
+            background-color: transparent;
+            padding:0px;
+         }
+        .search .gsc-input{
+            font-size:13px;
+        }
+        </style>
+
+        
+
+                
+    </head>
+    <body><!--noindex-->
+        <div class="znu-2016-overheader-bg">
+                <div class="znu-2016-main">
+                        <div class="znu-2016-overheader-row">
+                                <div class="znu-2016-overheader-col1">
+                                        <a href="#pagetop" class="glyph glyphicon glyphicon-arrow-down" title="Перейти до тексту сторінки"></a>
+                                        <div class="skin-selector-container">
+                                    	    <button type="button" class="skin-selector" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        	<span class='glyphicon glyphicon-eye-open'></span><span class="caret"></span>
+                                            </button>
+                                            <ul class="dropdown-menu">
+                                        	<li><a href="javascript:void(setSkin('common'))">Звичайне оформлення</a></li>
+                                        	<li><a href="javascript:void(setSkin('accessible-100'))">Збільшена доступність, масштаб 100%</a></li>
+                                        	<li><a href="javascript:void(setSkin('accessible-150'))">Збільшена доступність, масштаб 150%</a></li>
+                                        	<li><a href="javascript:void(setSkin('accessible-200'))">Збільшена доступність, масштаб 200%</a></li>
+                                            </ul>
+                                        </div>
+                                                                                                                                    <span class="lang ukr active">ukr</span>
+                                                                                                                                                                                <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=eng&start=0&" class="lang eng">eng</a>
+                                                                                                                    </div>
+                                <div class="znu-2016-overheader-col2">
+                                        <div class="search">
+                                                                                        <gcse:search></gcse:search>
+                                        </div>
+                                        <a href="//www.znu.edu.ua/cms/index.php?action=category%2Ftree&site_id=27&interface_lang=ukr" class="glyph glyphicon glyphicon-list" title="Мапа сайту"></a>
+                                        <a href="javascript:void(window.openPP())" class="glyph glyphicon glyphicon-print" title="Друкувати"></a>
+                                        <!--input type=text class="search"-->
+
+                                </div>
+                        </div>
+                </div>
+        </div>
+        <div class="znu-2016-main">
+            <div class="znu-2016-header">
+                <div class="znu-2016-header-logo">
+                    <span class="w1"><a href="http://www.whois.com/whois/znu.edu.ua" class="znu-2016-remark" target="_blank">Офіційний сайт</a></span>
+                    <a class="znu-2016-logo" href="//www.znu.edu.ua"></a>
+                    <div class="znu-2016-title-block">
+                        <a class="znu-2016-title" href="//www.znu.edu.ua">
+			                                <span class="w">Запорізький</span>
+                            <span class="w">національний</span>
+                            <span class="w">університет</span>
+                        </a>
+                    </div>
+                </div>
+		
+            </div>
+        </div>
+        <div class="znu-2016-main">
+            <div class="znu-2016-nav">
+                <span class="link"><a class="color1" href="//www.znu.edu.ua/ukr/university" ><i class="fa fa-university"></i><span class="text"><span class="lnk-text">Університет</span></span></a></span>
+                <span class="link"><a class="color2" href="//www.znu.edu.ua/ukr/pk"><i class="fa fa-book "></i><span class="text"><span class="lnk-text">Вступнику</span></span></a></span>
+                <span class="link"><a class="color3" href="//www.znu.edu.ua/ukr/edu"><i class="fa fa-pencil "></i><span class="text"><span class="lnk-text">Навчання</span></span></a></span>
+                <span class="link"><a class="color2" href="//www.znu.edu.ua/ukr/sci"><i class="fa fa-graduation-cap "></i><span class="text"><span class="lnk-text">Наука</span></span></a></span>
+                <span class="link"><a class="color1" href="//www.znu.edu.ua/ukr/international"><i class="fa fa-flag "></i><span class="text two-rows"><span class="lnk-text">Міжнародна<br>діяльність</span></span></a></span>
+                <span class="link"><a class="color3" href="//www.znu.edu.ua/ukr/11566"><i class="fa fa-newspaper-o "></i><span class="text two-rows"><span class="lnk-text">Студентське<br>самоврядування</span></span></a></span>
+            </div>
+            
+            <div class="znu-2016-block-page"><a name='pagetop' style='opacity:0; float:right;'></a>
+                <!--/noindex-->
+                <link title="Новини" type="application/rss+xml" rel="alternate" href="//www.znu.edu.ua/cms/index.php?action=news/rss&start=0&site_id=27&lang=ukr"/>
+
+<script type="text/javascript" src="//sites.znu.edu.ua/cms/scripts/lib/ajax_loadblock.js"></script>
+<style type="text/css">
+.tag_selected, .tag{white-space:nowrap;}
+.tag_selected {font-weight:bold;}
+.tag{font-weight:normal;}
+img.img_tag_selected, img.img_tag{margin:0px;}
+.news-category-child{
+  display:inline-block;
+  width:49.9%;
+}
+
+  .znu-2016-block-page .znu-2016-block-page-content{
+  margin-bottom:0.2rem;
+}
+.news_views{
+    display:block;
+    float:left;
+}
+</style>
+
+    <div class="znu-2016-breadcrumbs znu-2016-breadcrumbs-ch-content">
+        <div class="znu-2016-breadcrumbs-col">
+          <a title="" href="https://www.znu.edu.ua/">Головна сторінка</a> /
+          <span class="current">Новини</span>
+        </div>
+    </div>
+<!--<h1 style="font-size: 3rem; margin-left:3rem;">Новини</h1>-->
+
+<!--<div class="znu-2016-block-page-content znu-2016-block-page-content-ch-nocontent">-->
+  <div class="subcategories">
+      <div class="sub">
+          <ul id="sub">
+                            		                            		              <li class="category-child">
+                  <span class="child" style="margin-left:10px;">Все</span>
+              </li>
+		
+              <!--
+                              --> <li class="category-child"> <a style="margin-left:20px;" href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=&keywords=&tags=&year=&day=&month=&category_id=11484&">Головні новини</a></li><!--
+                              --> <li class="category-child"> <a style="margin-left:20px;" href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=&keywords=&tags=&year=&day=&month=&category_id=11924&">Інженерний інститут ЗНУ</a></li><!--
+                              --> <li class="category-child"> <a style="margin-left:20px;" href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=&keywords=&tags=&year=&day=&month=&category_id=12136&">Відділ доуніверситетської підготовки, профорієнтації та працевлаштування</a></li><!--
+                              --> <li class="category-child"> <a style="margin-left:20px;" href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=&keywords=&tags=&year=&day=&month=&category_id=490&">Факультети</a></li><!--
+                              --> <li class="category-child"> <a style="margin-left:20px;" href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=&keywords=&tags=&year=&day=&month=&category_id=11527&">Коледжі та філії</a></li><!--
+                              --> <li class="category-child"> <a style="margin-left:20px;" href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=&keywords=&tags=&year=&day=&month=&category_id=11733&">Школа Конфуція</a></li><!--
+                              --> <li class="category-child"> <a style="margin-left:20px;" href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=&keywords=&tags=&year=&day=&month=&category_id=12872&">EU-indy</a></li><!--
+                              --> <li class="category-child"> <a style="margin-left:20px;" href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=&keywords=&tags=&year=&day=&month=&category_id=12561&">MultiEd</a></li><!--
+                              --> <li class="category-child"> <a style="margin-left:20px;" href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=&keywords=&tags=&year=&day=&month=&category_id=13073&">eRead</a></li><!--
+                              --> <li class="category-child"> <a style="margin-left:20px;" href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=&keywords=&tags=&year=&day=&month=&category_id=12290&">Адміністративно-господарська частина</a></li><!--
+                              --> <li class="category-child"> <a style="margin-left:20px;" href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=&keywords=&tags=&year=&day=&month=&category_id=12309&">Центр гендерної освіти</a></li><!--
+                              --> <li class="category-child"> <a style="margin-left:20px;" href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=&keywords=&tags=&year=&day=&month=&category_id=12798&">Популяризація природничих наук та математики в ЗНУ</a></li><!--
+                             -->
+                                                        <li class="category-child">
+                  <span class="child" style="margin-left:10px;">Всі дати </span>
+                                </li>
+
+              <div>
+                                    <li class="category-child"> <a style="margin-left:20px;" href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=&day=&month=&year=2001&keywords=&tags=&category_id=&">2001</a></li>
+                                    <li class="category-child"> <a style="margin-left:20px;" href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=&day=&month=&year=2002&keywords=&tags=&category_id=&">2002</a></li>
+                                    <li class="category-child"> <a style="margin-left:20px;" href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=&day=&month=&year=2003&keywords=&tags=&category_id=&">2003</a></li>
+                                    <li class="category-child"> <a style="margin-left:20px;" href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=&day=&month=&year=2004&keywords=&tags=&category_id=&">2004</a></li>
+                                    <li class="category-child"> <a style="margin-left:20px;" href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=&day=&month=&year=2005&keywords=&tags=&category_id=&">2005</a></li>
+                                    <li class="category-child"> <a style="margin-left:20px;" href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=&day=&month=&year=2006&keywords=&tags=&category_id=&">2006</a></li>
+                                    <li class="category-child"> <a style="margin-left:20px;" href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=&day=&month=&year=2007&keywords=&tags=&category_id=&">2007</a></li>
+                                    <li class="category-child"> <a style="margin-left:20px;" href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=&day=&month=&year=2008&keywords=&tags=&category_id=&">2008</a></li>
+                                    <li class="category-child"> <a style="margin-left:20px;" href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=&day=&month=&year=2009&keywords=&tags=&category_id=&">2009</a></li>
+                                    <li class="category-child"> <a style="margin-left:20px;" href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=&day=&month=&year=2010&keywords=&tags=&category_id=&">2010</a></li>
+                                    <li class="category-child"> <a style="margin-left:20px;" href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=&day=&month=&year=2011&keywords=&tags=&category_id=&">2011</a></li>
+                                    <li class="category-child"> <a style="margin-left:20px;" href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=&day=&month=&year=2012&keywords=&tags=&category_id=&">2012</a></li>
+                                    <li class="category-child"> <a style="margin-left:20px;" href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=&day=&month=&year=2013&keywords=&tags=&category_id=&">2013</a></li>
+                                    <li class="category-child"> <a style="margin-left:20px;" href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=&day=&month=&year=2014&keywords=&tags=&category_id=&">2014</a></li>
+                                    <li class="category-child"> <a style="margin-left:20px;" href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=&day=&month=&year=2015&keywords=&tags=&category_id=&">2015</a></li>
+                                    <li class="category-child"> <a style="margin-left:20px;" href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=&day=&month=&year=2016&keywords=&tags=&category_id=&">2016</a></li>
+                                    <li class="category-child"> <a style="margin-left:20px;" href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=&day=&month=&year=2017&keywords=&tags=&category_id=&">2017</a></li>
+                                    <li class="category-child"> <a style="margin-left:20px;" href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=&day=&month=&year=2018&keywords=&tags=&category_id=&">2018</a></li>
+                                    <li class="category-child"> <a style="margin-left:20px;" href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=&day=&month=&year=2019&keywords=&tags=&category_id=&">2019</a></li>
+                                    <li class="category-child"> <a style="margin-left:20px;" href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=&day=&month=&year=2020&keywords=&tags=&category_id=&">2020</a></li>
+                                    <li class="category-child"> <a style="margin-left:20px;" href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=&day=&month=&year=2021&keywords=&tags=&category_id=&">2021</a></li>
+                                    <li class="category-child"> <a style="margin-left:20px;" href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=&day=&month=&year=2022&keywords=&tags=&category_id=&">2022</a></li>
+                                    <li class="category-child"> <a style="margin-left:20px;" href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=&day=&month=&year=2023&keywords=&tags=&category_id=&">2023</a></li>
+                                    <li class="category-child"> <a style="margin-left:20px;" href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=&day=&month=&year=2024&keywords=&tags=&category_id=&">2024</a></li>
+                                </div>
+
+             <!--<div class="search" style="margin-right:2rem;">-->
+              <!--<form action="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&keywords=&">-->
+                <!--<input type="search" name="keywords" id="search" placeholder="Пошук..."  value="">-->
+                <!--<button class="button"> <i class="fa fa-search"></i> </button>-->
+              <!--</form>-->
+            <!--</div>-->
+          </ul>
+      </div>
+
+    
+</div>
+    <div style="float: right;" class="znu-2016-block-page-content znu-2016-block-page-content-ch-content">
+        <div class="znu-2016-page-header">
+            <a name="pagetop" class="pagetop"></a>
+                <div class="search" style="margin-right:2rem;">
+                    <form action="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&keywords=&" method="post">
+                        <input type="search" name="keywords" id="search" placeholder="Пошук..."  value="">
+                        <button class="button"> <i class="fa fa-search"></i> </button>
+                    </form>
+                </div>
+            <div class="znu-2016-block-page-header"><h1>Новини пресслужби ЗНУ</h1></div>
+            Новини
+            1-10
+            (
+            всього знайдено
+            : 23665
+            )
+        </div>
+    </div>
+
+    <br><br>
+    
+    
+    <!--<div align=left"><b>-->
+    <!--Новини-->
+    <!--1-10-->
+    <!--(-->
+     <!--всього знайдено-->
+     <!--: 23665-->
+    <!--)-->
+    <!--</b></div>-->
+    <br>
+
+          <div style="float: right;" class="znu-2016-block-page-content znu-2016-block-page-content-ch-content">
+      <div class="znu-2016-news">
+      <div class="znu-2016-new">
+                  <div class="row">
+            <div class="znu-2016-new-img">
+              <a href="//www.znu.edu.ua/cms/index.php?action=news/view_details&news_id=62227&lang=ukr&news_code=studentiv-znu-informuyut-pro-mozhlivist-otrimati-podatkovi-znizhki-z-oplati-za-navchannya" title="Студенти можуть отримати податкові знижки з оплати за навчання"><img src="//sites.znu.edu.ua/znu_news/gallery/2024/03/news-62227-ukr-small-DSC_3644.jpg" alt="Студенти можуть отримати податкові знижки з оплати за навчання"></a>
+            </div>
+            <div class="znu-2016-new-img-list-info">
+              <div class="a-container">
+                <h4><a href="//www.znu.edu.ua/cms/index.php?action=news/view_details&news_id=62227&lang=ukr&news_code=studentiv-znu-informuyut-pro-mozhlivist-otrimati-podatkovi-znizhki-z-oplati-za-navchannya">Студенти можуть отримати податкові знижки з оплати за навчання</a></h4>
+                <div class="text"><p>Щороку в межах реалізації соціальної політики в Запорізькому національному університеті (ZNU, Zaporizhzhia National University) студентство, яке навчається <strong>за кошти фізичних та юридичних осіб</strong> (за контрактною формою навчання), інформують про особливості <strong>отримання податкової знижки </strong>з оплати за навчання. Нині можливість отримати податкову пільгу цікавить багатьох студентів і їхніх батьків.</p>
+<p>&nbsp;</p></div>
+              </div>
+              <div>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=ZNU&">ZNU</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=Zaporizhzhia%20National%20University&">Zaporizhzhia National University</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D0%97%D0%B0%D0%BF%D0%BE%D1%80%D1%96%D0%B7%D1%8C%D0%BA%D0%B8%D0%B9%20%D0%BD%D0%B0%D1%86%D1%96%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9%20%D1%83%D0%BD%D1%96%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82&">Запорізький національний університет</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D0%97%D0%9D%D0%A3&">ЗНУ</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D0%B2%D1%96%D0%B4%D0%B4%D1%96%D0%BB%20%D0%B1%D1%83%D1%85%D0%B3%D0%B0%D0%BB%D1%82%D0%B5%D1%80%D1%81%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BE%D0%B1%D0%BB%D1%96%D0%BA%D1%83&">відділ бухгалтерського обліку</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D1%84%D1%96%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D0%BE%D1%97&">фінансової</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D0%B1%D1%8E%D0%B4%D0%B6%D0%B5%D1%82%D0%BD%D0%BE%D1%97%20%D0%B7%D0%B2%D1%96%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%96&">бюджетної звітності</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D0%BE%D1%81%D0%B2%D1%96%D1%82%D0%BD%D1%96%D0%B9%20%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81&">освітній процес</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D1%81%D0%BE%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%20%D0%BF%D0%BE%D0%BB%D1%96%D1%82%D0%B8%D0%BA%D0%B0&">соціальна політика</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D0%BF%D0%BE%D0%B4%D0%B0%D1%82%D0%BA%D0%BE%D0%B2%D1%96%20%D0%B7%D0%BD%D0%B8%D0%B6%D0%BA%D0%B8&">податкові знижки</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D0%BA%D0%BE%D0%BC%D0%BF%D0%B5%D0%BD%D1%81%D0%B0%D1%86%D1%96%D1%8F&">компенсація</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D0%BE%D0%BF%D0%BB%D0%B0%D1%82%D0%B0%20%D0%B7%D0%B0%20%D0%BD%D0%B0%D0%B2%D1%87%D0%B0%D0%BD%D0%BD%D1%8F&">оплата за навчання</a>
+                                                        <a href="/ukr/489/znu-front-news">Головні новини</a>
+                                </div>
+            </div>
+            <div style="clear:both;"></div>
+          </div>
+	  <span class="news_views">582 переглядів</span>
+          <div class="date-container">08.03.2024 20:16</div>
+              </div>
+    </div></div>
+          <div style="float: right;" class="znu-2016-block-page-content znu-2016-block-page-content-ch-content">
+      <div class="znu-2016-news">
+      <div class="znu-2016-new">
+                  <div class="row">
+            <div class="znu-2016-new-img">
+              <a href="//www.znu.edu.ua/cms/index.php?action=news/view_details&news_id=62642&lang=ukr&news_code=vstup-do-magistraturi--pro-scho-varto-znatiyi" title="Вступ до магістратури: про що варто знати?"><img src="//sites.znu.edu.ua/znu_news/gallery/2024/04/news-62642-ukr-small-YEVIYEFVV_grafik_2024-768x1086.png" alt="Вступ до магістратури: про що варто знати?"></a>
+            </div>
+            <div class="znu-2016-new-img-list-info">
+              <div class="a-container">
+                <h4><a href="//www.znu.edu.ua/cms/index.php?action=news/view_details&news_id=62642&lang=ukr&news_code=vstup-do-magistraturi--pro-scho-varto-znatiyi">Вступ до магістратури: про що варто знати?</a></h4>
+                <div class="text"><p>Сьомого травня 2024 року розпочинається реєстрація вступників для складання Єдиного вступного іспиту (ЄВІ) та Єдиного фахового вступного випробування (ЄФВВ). У ЗНУ (ZNU, Zaporizhzhia National University) традиційно інформують вступників щодо всіх особливостей цього важливого етапу перед навчанням у магістратурі.</p>
+<p>&nbsp;</p></div>
+              </div>
+              <div>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=ZNU&">ZNU</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=Zaporizhzhia%20National%20University&">Zaporizhzhia National University</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D0%97%D0%B0%D0%BF%D0%BE%D1%80%D1%96%D0%B7%D1%8C%D0%BA%D0%B8%D0%B9%20%D0%BD%D0%B0%D1%86%D1%96%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9%20%D1%83%D0%BD%D1%96%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82&">Запорізький національний університет</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D0%B2%D1%81%D1%82%D1%83%D0%BF-2024&">вступ-2024</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D0%BC%D0%B0%D0%B3%D1%96%D1%81%D1%82%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0&">магістратура</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D0%B7%D0%B0%D0%BF%D0%BE%D0%B2%D0%BD%D0%B5%D0%BD%D0%BD%D1%8F%20%D0%B3%D1%83%D0%B3%D0%BB-%D1%84%D0%BE%D1%80%D0%BC%D0%B8&">заповнення гугл-форми</a>
+                                                        <a href="/ukr/489/znu-front-news">Головні новини</a>
+                                      <a href="/ukr/489/12136">Відділ доуніверситетської підготовки, профорієнтації та працевлаштування</a>
+                                </div>
+            </div>
+            <div style="clear:both;"></div>
+          </div>
+	  <span class="news_views">138 переглядів</span>
+          <div class="date-container">26.04.2024 14:48</div>
+              </div>
+    </div></div>
+          <div style="float: right;" class="znu-2016-block-page-content znu-2016-block-page-content-ch-content">
+      <div class="znu-2016-news">
+      <div class="znu-2016-new">
+                  <div class="row">
+            <div class="znu-2016-new-img">
+              <a href="//www.znu.edu.ua/cms/index.php?action=news/view_details&news_id=61643&lang=ukr&news_code=vstupnikiv-do-magistraturi-zaproshuyut-na-kursi-pidgotovki-do---v--" title="Вступників до магістратури й аспірантури запрошують на курси підготовки до ЄВІ"><img src="//sites.znu.edu.ua/znu_news/gallery/2024/01/news-61643-ukr-small-DSC_3307.jpg" alt="Вступників до магістратури й аспірантури запрошують на курси підготовки до ЄВІ"></a>
+            </div>
+            <div class="znu-2016-new-img-list-info">
+              <div class="a-container">
+                <h4><a href="//www.znu.edu.ua/cms/index.php?action=news/view_details&news_id=61643&lang=ukr&news_code=vstupnikiv-do-magistraturi-zaproshuyut-na-kursi-pidgotovki-do---v--">Вступників до магістратури й аспірантури запрошують на курси підготовки до ЄВІ</a></h4>
+                <div class="text">Центр інтенсивного вивчення іноземних мов ЗНУ (ZNU, Zaporizhzhia National University) запрошує всіх охочих на підготовчі курси для складання єдиного вступного іспиту з іноземної мови для вступу до магістратури й аспірантури. Якщо хочете почуватися впевнено на вступному іспиті, швидко та якісно підготуватися – не зволікайте!<br/></div>
+              </div>
+              <div>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=ZNU&">ZNU</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=Zaporizhzhia%20National%20University&">Zaporizhzhia National University</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D0%97%D0%B0%D0%BF%D0%BE%D1%80%D1%96%D0%B7%D1%8C%D0%BA%D0%B8%D0%B9%20%D0%BD%D0%B0%D1%86%D1%96%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9%20%D1%83%D0%BD%D1%96%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82&">Запорізький національний університет</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D0%97%D0%9D%D0%A3&">ЗНУ</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D1%86%D0%B5%D0%BD%D1%82%D1%80%20%D1%96%D0%BD%D1%82%D0%B5%D0%BD%D1%81%D0%B8%D0%B2%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%B2%D0%B8%D0%B2%D1%87%D0%B5%D0%BD%D0%BD%D1%8F%20%D1%96%D0%BD%D0%BE%D0%B7%D0%B5%D0%BC%D0%BD%D0%B8%D1%85%20%D0%BC%D0%BE%D0%B2&">центр інтенсивного вивчення іноземних мов</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D0%BF%D1%96%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D1%87%D1%96%20%D0%BA%D1%83%D1%80%D1%81%D0%B8&">підготовчі курси</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D0%BC%D0%B0%D0%B3%D1%96%D1%81%D1%82%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0&">магістратура</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D0%B2%D1%81%D1%82%D1%83%D0%BF&">вступ</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D1%94%D0%B4%D0%B8%D0%BD%D0%B8%D0%B9%20%D0%B2%D1%81%D1%82%D1%83%D0%BF%D0%BD%D0%B8%D0%B9%20%D1%96%D1%81%D0%BF%D0%B8%D1%82&">єдиний вступний іспит</a>
+                                                        <a href="/ukr/489/znu-front-news">Головні новини</a>
+                                      <a href="/ukr/489/12136">Відділ доуніверситетської підготовки, профорієнтації та працевлаштування</a>
+                                </div>
+            </div>
+            <div style="clear:both;"></div>
+          </div>
+	  <span class="news_views">938 переглядів</span>
+          <div class="date-container">10.01.2024 13:10</div>
+              </div>
+    </div></div>
+          <div style="float: right;" class="znu-2016-block-page-content znu-2016-block-page-content-ch-content">
+      <div class="znu-2016-news">
+      <div class="znu-2016-new">
+                  <div class="row">
+            <div class="znu-2016-new-img">
+              <a href="//www.znu.edu.ua/cms/index.php?action=news/view_details&news_id=62715&lang=ukr&news_code=--z-velikodnem-" title="Із Великоднем!"><img src="//sites.znu.edu.ua/znu_news/gallery/2024/05/news-62715-ukr-small-list__vka.jpg" alt="Із Великоднем!"></a>
+            </div>
+            <div class="znu-2016-new-img-list-info">
+              <div class="a-container">
+                <h4><a href="//www.znu.edu.ua/cms/index.php?action=news/view_details&news_id=62715&lang=ukr&news_code=--z-velikodnem-">Із Великоднем!</a></h4>
+                <div class="text"><p>Запорізький національний університет (ZNU, Zaporizhzhia National University) вітає викладачів, співробітників, студентів, аспірантів і докторантів, абітурієнтів та їхніх батьків із Великоднем!</p>
+<p>&nbsp;</p></div>
+              </div>
+              <div>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=ZNU&">ZNU</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=Zaporizhzhia%20National%20University&">Zaporizhzhia National University</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D0%97%D0%B0%D0%BF%D0%BE%D1%80%D1%96%D0%B7%D1%8C%D0%BA%D0%B8%D0%B9%20%D0%BD%D0%B0%D1%86%D1%96%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9%20%D1%83%D0%BD%D1%96%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82&">Запорізький національний університет</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D0%97%D0%9D%D0%A3&">ЗНУ</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D0%BF%D0%BE%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F&">поздоровлення</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D1%81%D0%B2%D1%8F%D1%82%D0%BE&">свято</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B4%D0%B5%D0%BD%D1%8C&">Великдень</a>
+                                                        <a href="/ukr/489/490">Факультети</a>
+                                      <a href="/ukr/489/znu-front-news">Головні новини</a>
+                                </div>
+            </div>
+            <div style="clear:both;"></div>
+          </div>
+	  <span class="news_views">24 переглядів</span>
+          <div class="date-container">05.05.2024 00:01</div>
+              </div>
+    </div></div>
+          <div style="float: right;" class="znu-2016-block-page-content znu-2016-block-page-content-ch-content">
+      <div class="znu-2016-news">
+      <div class="znu-2016-new">
+                  <div class="row">
+            <div class="znu-2016-new-img">
+              <a href="//www.znu.edu.ua/cms/index.php?action=news/view_details&news_id=62716&lang=ukr&news_code=vipusknikiv-znu-zaproshuyut-na-robotu" title="Випускників ЗНУ запрошують на роботу"><img src="//sites.znu.edu.ua/znu_news/gallery/2024/05/news-62716-ukr-small-hospital.png" alt="Випускників ЗНУ запрошують на роботу"></a>
+            </div>
+            <div class="znu-2016-new-img-list-info">
+              <div class="a-container">
+                <h4><a href="//www.znu.edu.ua/cms/index.php?action=news/view_details&news_id=62716&lang=ukr&news_code=vipusknikiv-znu-zaproshuyut-na-robotu">Випускників ЗНУ запрошують на роботу</a></h4>
+                <div class="text"><p>КНП &laquo;Уманська центральна міська лікарня&raquo; запрошує випускників ЗНУ (ZNU, Zaporizhzhia National University) на вакансію ерготерапевта. Зі свого боку адміністрація гарантує належні умови праці та гідну заробітну плату.</p></div>
+              </div>
+              <div>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=ZNU&">ZNU</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=Zaporizhzhia%20National%20University&">Zaporizhzhia National University</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D0%97%D0%B0%D0%BF%D0%BE%D1%80%D1%96%D0%B7%D1%8C%D0%BA%D0%B8%D0%B9%20%D0%BD%D0%B0%D1%86%D1%96%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9%20%D1%83%D0%BD%D1%96%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82&">Запорізький національний університет</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D0%97%D0%9D%D0%A3&">ЗНУ</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D0%B2%D1%96%D0%B4%D0%B4%D1%96%D0%BB%20%D0%B4%D0%BE%D1%83%D0%BD%D1%96%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%D1%81%D1%8C%D0%BA%D0%BE%D1%97%20%D0%BF%D1%96%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8&">відділ доуніверситетської підготовки</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D0%BF%D1%80%D0%BE%D1%84%D0%BE%D1%80%D1%96%D1%94%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%97&">профорієнтації</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D0%BF%D1%80%D0%B0%D1%86%D0%B5%D0%B2%D0%BB%D0%B0%D1%88%D1%82%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F&">працевлаштування</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D0%BE%D0%B3%D0%BE%D0%BB%D0%BE%D1%88%D0%B5%D0%BD%D0%BD%D1%8F&">оголошення</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D1%96%D1%97&">вакансії</a>
+                                                        <a href="/ukr/489/490">Факультети</a>
+                                      <a href="/ukr/489/znu-front-news">Головні новини</a>
+                                      <a href="/ukr/489/12136">Відділ доуніверситетської підготовки, профорієнтації та працевлаштування</a>
+                                </div>
+            </div>
+            <div style="clear:both;"></div>
+          </div>
+	  <span class="news_views">23 переглядів</span>
+          <div class="date-container">04.05.2024 17:33</div>
+              </div>
+    </div></div>
+          <div style="float: right;" class="znu-2016-block-page-content znu-2016-block-page-content-ch-content">
+      <div class="znu-2016-news">
+      <div class="znu-2016-new">
+                  <div class="row">
+            <div class="znu-2016-new-img">
+              <a href="//www.znu.edu.ua/cms/index.php?action=news/view_details&news_id=62714&lang=ukr&news_code=nova-storinka62714-ukr" title="Учасники Академії STREAM-освіти отримали сертифікати про навчання"><img src="//sites.znu.edu.ua/znu_news/gallery/2024/05/news-62714-ukr-small-f2.jpg" alt="Учасники Академії STREAM-освіти отримали сертифікати про навчання"></a>
+            </div>
+            <div class="znu-2016-new-img-list-info">
+              <div class="a-container">
+                <h4><a href="//www.znu.edu.ua/cms/index.php?action=news/view_details&news_id=62714&lang=ukr&news_code=nova-storinka62714-ukr">Учасники Академії STREAM-освіти отримали сертифікати про навчання</a></h4>
+                <div class="text"><p>Упродовж лютого-квітня в Запорізькому національному університеті (ZNU, Zaporizhzhia National University) працювала інноваційна освітня платформа, спрямована на розвиток навичок учнів у різних галузях науки та технологій, вдосконалення знань з письма та мистецтва, &ndash; Відкрита Академія STREAM-освіти. У роботі Академії брали участь близько 30 учнів 9-11 класів закладів загальної середньої освіти Запорізького регіону.</p>
+<p>&nbsp;</p></div>
+              </div>
+              <div>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=ZNU&">ZNU</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=Zaporizhzhia%20National%20University&">Zaporizhzhia National University</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D0%97%D0%B0%D0%BF%D0%BE%D1%80%D1%96%D0%B7%D1%8C%D0%BA%D0%B8%D0%B9%20%D0%BD%D0%B0%D1%86%D1%96%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9%20%D1%83%D0%BD%D1%96%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82&">Запорізький національний університет</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D0%97%D0%9D%D0%A3&">ЗНУ</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D1%84%D0%B0%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D0%B5%D1%82%D0%B8&">факультети</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D0%B2%D1%96%D0%B4%D0%B4%D1%96%D0%BB%20%D0%B4%D0%BE%D1%83%D0%BD%D1%96%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%D1%81%D1%8C%D0%BA%D0%BE%D1%97%20%D0%BF%D1%96%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8&">відділ доуніверситетської підготовки</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D0%BF%D1%80%D0%BE%D1%84%D0%BE%D1%80%D1%96%D1%94%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%97&">профорієнтації</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D0%BF%D1%80%D0%B0%D1%86%D0%B5%D0%B2%D0%BB%D0%B0%D1%88%D1%82%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F&">працевлаштування</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D0%92%D1%96%D0%B4%D0%BA%D1%80%D0%B8%D1%82%D0%B0%20%D0%90%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D1%96%D1%8F%20STREAM-%D0%BE%D1%81%D0%B2%D1%96%D1%82%D0%B8&">Відкрита Академія STREAM-освіти</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D1%81%D0%BF%D1%96%D0%B2%D0%BF%D1%80%D0%B0%D1%86%D1%8F&">співпраця</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D1%88%D0%BA%D0%BE%D0%BB%D0%B8&">школи</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D1%81%D0%B5%D1%80%D1%82%D1%84%D1%96%D0%BA%D0%B0%D1%82%D0%B8&">сертфікати</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D0%B5%D0%BA%D1%81%D0%BA%D1%83%D1%80%D1%81%D1%96%D1%8F&">екскурсія</a>
+                                                        <a href="/ukr/489/znu-front-news">Головні новини</a>
+                                      <a href="/ukr/489/12136">Відділ доуніверситетської підготовки, профорієнтації та працевлаштування</a>
+                                </div>
+            </div>
+            <div style="clear:both;"></div>
+          </div>
+	  <span class="news_views">39 переглядів</span>
+          <div class="date-container">03.05.2024 15:24</div>
+              </div>
+    </div></div>
+          <div style="float: right;" class="znu-2016-block-page-content znu-2016-block-page-content-ch-content">
+      <div class="znu-2016-news">
+      <div class="znu-2016-new">
+                  <div class="row">
+            <div class="znu-2016-new-img">
+              <a href="//www.znu.edu.ua/cms/index.php?action=news/view_details&news_id=62713&lang=ukr&news_code=yuridichnij-fakultet-populyarizu---pravovi-znannya-sered-yunatstva-oblasti" title="Юридичний факультет популяризує правові знання серед юнацтва області"><img src="//sites.znu.edu.ua/znu_news/gallery/2024/05/news-62713-ukr-small-yuristi.jpg" alt="Юридичний факультет популяризує правові знання серед юнацтва області"></a>
+            </div>
+            <div class="znu-2016-new-img-list-info">
+              <div class="a-container">
+                <h4><a href="//www.znu.edu.ua/cms/index.php?action=news/view_details&news_id=62713&lang=ukr&news_code=yuridichnij-fakultet-populyarizu---pravovi-znannya-sered-yunatstva-oblasti">Юридичний факультет популяризує правові знання серед юнацтва області</a></h4>
+                <div class="text"><p>Усвідомлюючи важливість поширення правових знань та актуальність популяризації правничих спеціальностей, викладачі юридичного факультету ЗНУ (ZNU, Zaporizhzhia National University) активно відвідують заклади середньої освіти та проводять онлайн- та оффлайн-зустрічі зі школярами. Так, <strong>Інна Болокан</strong> та <strong>Дмитро Луц</strong> впродовж двох днів спілкувались &nbsp;з 9, 10 та 11 класами Азовської загальноосвітньої школи І-ІІІ ступенів.</p>
+<p>&nbsp;</p></div>
+              </div>
+              <div>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=ZNU&">ZNU</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=Zaporizhzhia%20National%20University&">Zaporizhzhia National University</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D0%97%D0%B0%D0%BF%D0%BE%D1%80%D1%96%D0%B7%D1%8C%D0%BA%D0%B8%D0%B9%20%D0%BD%D0%B0%D1%86%D1%96%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9%20%D1%83%D0%BD%D1%96%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82&">Запорізький національний університет</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D0%97%D0%9D%D0%A3&">ЗНУ</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D1%8E%D1%80%D0%B8%D0%B4%D0%B8%D1%87%D0%BD%D0%B8%D0%B9%20%D1%84%D0%B0%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D0%B5%D1%82&">юридичний факультет</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D0%B2%D1%96%D0%B4%D0%B4%D1%96%D0%BB%20%D0%B4%D0%BE%D1%83%D0%BD%D1%96%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%D1%81%D1%8C%D0%BA%D0%BE%D1%97%20%D0%BF%D1%96%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8&">відділ доуніверситетської підготовки</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D0%BF%D1%80%D0%BE%D1%84%D0%BE%D1%80%D1%96%D1%94%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%97&">профорієнтації</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D0%BF%D1%80%D0%B0%D1%86%D0%B5%D0%B2%D0%BB%D0%B0%D1%88%D1%82%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F&">працевлаштування</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D0%B7%D1%83%D1%81%D1%82%D1%80%D1%96%D1%87&">зустріч</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D1%88%D0%BA%D0%BE%D0%BB%D0%B0&">школа</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D1%81%D0%BF%D1%96%D0%B2%D0%BF%D1%80%D0%B0%D1%86%D1%8F&">співпраця</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D0%B2%D0%B0%20%D0%BE%D1%81%D0%B2%D1%96%D1%82%D0%B0&">правова освіта</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D0%B2%D1%81%D1%82%D1%83%D0%BF-2024&">вступ-2024</a>
+                                                        <a href="/ukr/489/490/500">Юридичний</a>
+                                      <a href="/ukr/489/znu-front-news">Головні новини</a>
+                                      <a href="/ukr/489/12136">Відділ доуніверситетської підготовки, профорієнтації та працевлаштування</a>
+                                </div>
+            </div>
+            <div style="clear:both;"></div>
+          </div>
+	  <span class="news_views">34 переглядів</span>
+          <div class="date-container">03.05.2024 15:01</div>
+              </div>
+    </div></div>
+          <div style="float: right;" class="znu-2016-block-page-content znu-2016-block-page-content-ch-content">
+      <div class="znu-2016-news">
+      <div class="znu-2016-new">
+                  <div class="row">
+            <div class="znu-2016-new-img">
+              <a href="//www.znu.edu.ua/cms/index.php?action=news/view_details&news_id=62712&lang=ukr&news_code=spivpratsya-vikladachiv-filfaku-zi-stejkkholderami-triva--" title="Співпраця викладачів філфаку зі стейкхолдерами триває"><img src="//sites.znu.edu.ua/znu_news/gallery/2024/05/news-62712-ukr-small-440296977_1347801135899585_3261584437903702665_n.jpg" alt="Співпраця викладачів філфаку зі стейкхолдерами триває"></a>
+            </div>
+            <div class="znu-2016-new-img-list-info">
+              <div class="a-container">
+                <h4><a href="//www.znu.edu.ua/cms/index.php?action=news/view_details&news_id=62712&lang=ukr&news_code=spivpratsya-vikladachiv-filfaku-zi-stejkkholderami-triva--">Співпраця викладачів філфаку зі стейкхолдерами триває</a></h4>
+                <div class="text"><p>У межах співпраці філологічного факультету з закладами загальної середньої освіти м.&nbsp;Запоріжжя та на запрошення директорки гімназії <strong>Світлани Дорошенко</strong> доцентка кафедри української літератури Запорізького національного університету (ZNU, Zaporizhzhia National University) <strong>Ірина Бакаленко </strong>завітала до Запорізької гімназії № 84, де зустрілась з освітянами.</p>
+<p>&nbsp;</p></div>
+              </div>
+              <div>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=ZNU&">ZNU</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=Zaporizhzhia%20National%20University&">Zaporizhzhia National University</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D0%97%D0%B0%D0%BF%D0%BE%D1%80%D1%96%D0%B7%D1%8C%D0%BA%D0%B8%D0%B9%20%D0%BD%D0%B0%D1%86%D1%96%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9%20%D1%83%D0%BD%D1%96%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82&">Запорізький національний університет</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D0%97%D0%9D%D0%A3&">ЗНУ</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D1%84%D1%96%D0%BB%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%87%D0%BD%D0%B8%D0%B9%20%D1%84%D0%B0%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D0%B5%D1%82&">філологічний факультет</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D1%81%D1%82%D0%B5%D0%B9%D0%BA%D1%85%D0%BE%D0%BB%D0%B4%D0%B5%D1%80%D0%B8&">стейкхолдери</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D0%B0%D0%BD%D1%82%D0%B8%D1%84%D0%B5%D0%B9%D0%BA%D0%BE%D0%B2%D0%B0%20%D0%B3%D1%80%D0%B0&">антифейкова гра</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D1%81%D0%BF%D1%96%D0%B2%D0%BF%D1%80%D0%B0%D1%86%D1%8F&">співпраця</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D0%BF%D1%96%D0%B4%D0%B2%D0%B8%D1%89%D0%B5%D0%BD%D0%BD%D1%8F%20%D0%BA%D0%B2%D0%B0%D0%BB%D1%96%D1%84%D1%96%D0%BA%D0%B0%D1%86%D1%96%D1%97&">підвищення кваліфікації</a>
+                                                        <a href="/ukr/489/490/495">Філологічний</a>
+                                      <a href="/ukr/489/znu-front-news">Головні новини</a>
+                                </div>
+            </div>
+            <div style="clear:both;"></div>
+          </div>
+	  <span class="news_views">34 переглядів</span>
+          <div class="date-container">03.05.2024 14:53</div>
+              </div>
+    </div></div>
+          <div style="float: right;" class="znu-2016-block-page-content znu-2016-block-page-content-ch-content">
+      <div class="znu-2016-news">
+      <div class="znu-2016-new">
+                  <div class="row">
+            <div class="znu-2016-new-img">
+              <a href="//www.znu.edu.ua/cms/index.php?action=news/view_details&news_id=62706&lang=ukr&news_code=fakultet-zhurnalistiki-doluchivsya-do-konkursu---motivatsiya-neskorenikh-2-0--" title="Факультет журналістики долучився до конкурсу «Мотивація нескорених 2.0»"><img src="//sites.znu.edu.ua/znu_news/gallery/2024/05/news-62706-ukr-small-zhurfak.jpg" alt="Факультет журналістики долучився до конкурсу «Мотивація нескорених 2.0»"></a>
+            </div>
+            <div class="znu-2016-new-img-list-info">
+              <div class="a-container">
+                <h4><a href="//www.znu.edu.ua/cms/index.php?action=news/view_details&news_id=62706&lang=ukr&news_code=fakultet-zhurnalistiki-doluchivsya-do-konkursu---motivatsiya-neskorenikh-2-0--">Факультет журналістики долучився до конкурсу «Мотивація нескорених 2.0»</a></h4>
+                <div class="text"><p>У березні стартував конкурс &laquo;Мотивація нескорених 2.0&raquo;. Організаторами його стали &laquo;Scholarship в Україні&raquo; за сприяння Державної наукової установи &laquo;Інститут модернізації змісту освіти&raquo;. ЗНУ (ZNU, Zaporizhzhia National University) не оминув своєю увагою цю непересічну подію.</p>
+<p>&nbsp;</p></div>
+              </div>
+              <div>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=ZNU&">ZNU</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=Zaporizhzhia%20National%20University&">Zaporizhzhia National University</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D0%97%D0%B0%D0%BF%D0%BE%D1%80%D1%96%D0%B7%D1%8C%D0%BA%D0%B8%D0%B9%20%D0%BD%D0%B0%D1%86%D1%96%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9%20%D1%83%D0%BD%D1%96%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82&">Запорізький національний університет</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D0%97%D0%9D%D0%A3&">ЗНУ</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D1%84%D0%B0%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D0%B5%D1%82%20%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D1%96%D1%81%D1%82%D0%B8%D0%BA%D0%B8&">факультет журналістики</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81&">конкурс</a>
+                                                        <a href="/ukr/489/490/503">Журналістики</a>
+                                      <a href="/ukr/489/znu-front-news">Головні новини</a>
+                                </div>
+            </div>
+            <div style="clear:both;"></div>
+          </div>
+	  <span class="news_views">31 переглядів</span>
+          <div class="date-container">03.05.2024 14:00</div>
+              </div>
+    </div></div>
+          <div style="float: right;" class="znu-2016-block-page-content znu-2016-block-page-content-ch-content">
+      <div class="znu-2016-news">
+      <div class="znu-2016-new">
+                  <div class="row">
+            <div class="znu-2016-new-img">
+              <a href="//www.znu.edu.ua/cms/index.php?action=news/view_details&news_id=62711&lang=ukr&news_code=na-zhurfatsi-poznajomilisya-z-robotoyu-operatora-droniv-kamikadze-ta-vijskovogo-fotografa" title="На журфаці познайомилися з роботою оператора дронів-камікадзе та військового фотографа"><img src="//sites.znu.edu.ua/znu_news/gallery/2024/05/news-62711-ukr-small-20240501_113635_____kop__ya.jpg" alt="На журфаці познайомилися з роботою оператора дронів-камікадзе та військового фотографа"></a>
+            </div>
+            <div class="znu-2016-new-img-list-info">
+              <div class="a-container">
+                <h4><a href="//www.znu.edu.ua/cms/index.php?action=news/view_details&news_id=62711&lang=ukr&news_code=na-zhurfatsi-poznajomilisya-z-robotoyu-operatora-droniv-kamikadze-ta-vijskovogo-fotografa">На журфаці познайомилися з роботою оператора дронів-камікадзе та військового фотографа</a></h4>
+                <div class="text"><p>1 травня на студенти факультету журналістики ЗНУ (ZNU, Zaporizhzhia National University) зустрілися з оператором дронів-камікадзе, військовим фотографом <strong>Антоном Жаровим</strong>, позивний &laquo;Турист&raquo;.</p>
+<p>&nbsp;</p></div>
+              </div>
+              <div>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=ZNU&">ZNU</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=Zaporizhzhia%20National%20University&">Zaporizhzhia National University</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D0%97%D0%B0%D0%BF%D0%BE%D1%80%D1%96%D0%B7%D1%8C%D0%BA%D0%B8%D0%B9%20%D0%BD%D0%B0%D1%86%D1%96%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9%20%D1%83%D0%BD%D1%96%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82&">Запорізький національний університет</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D0%97%D0%9D%D0%A3&">ЗНУ</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D1%84%D0%B0%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D0%B5%D1%82%20%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D1%96%D1%81%D1%82%D0%B8%D0%BA%D0%B8&">факультет журналістики</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D0%B7%D1%83%D1%81%D1%82%D1%80%D1%96%D1%87&">зустріч</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D0%B2%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9%20%D1%84%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84&">військовий фотограф</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D0%B2%D1%96%D0%B9%D0%BD%D0%B0&">війна</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D1%80%D0%BE%D0%B7%D0%BF%D0%BE%D0%B2%D1%96%D0%B4%D1%8C&">розповідь</a>
+                                      <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&tags=%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0&">правила</a>
+                                                        <a href="/ukr/489/490/503">Журналістики</a>
+                                      <a href="/ukr/489/znu-front-news">Головні новини</a>
+                                </div>
+            </div>
+            <div style="clear:both;"></div>
+          </div>
+	  <span class="news_views">29 переглядів</span>
+          <div class="date-container">03.05.2024 13:49</div>
+              </div>
+    </div></div>
+    
+    <div style="float: right;" class="znu-2016-block-page-content znu-2016-block-page-content-ch-content">
+    <div class="znu-2016-news">
+      <div align=left style="margin-top:1rem;" class="znu12-pagination">
+      Сторінки :
+                                     <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=0&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&" style="font-size:150%;">1</a>
+                                                       <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=10&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&">2</a>
+                                                       <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=20&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&">3</a>
+                                                       <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=30&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&">4</a>
+                                                       <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=40&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&">5</a>
+                                                       <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=50&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&">6</a>
+                                                       <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=60&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&">7</a>
+                                                       <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=70&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&">8</a>
+                                                       <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=80&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&">9</a>
+                                                       <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=90&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&">10</a>
+                                          ...
+                                             <a href="//www.znu.edu.ua/cms/index.php?action=news/view&site_id=27&lang=ukr&start=23660&filtermode=&ordering=weight%20ASC%2Cdate%20DESC&">2367</a>
+                              </div>
+        </div></div>
+
+
+<div style='clear:both;'></div>
+<br />
+
+<!-- <div style="opacity:0.2; font-size:80%;">0.46013998985291</div> -->
+                <!--noindex-->
+            </div>
+            
+            
+        </div>
+        
+        <div class="znu-2016-footer-bg">
+            <div class="znu-2016-main">
+                <div class="znu-2016-block-footer">
+                    <div class="znu-2016-block-footer-col">
+                        © 2018 ЗНУ Запорізький національний університет, 69600,
+<br>
+м. Запоріжжя, вул. Жуковського, 66,
+<br>
+Відділ діловодства та архіву тел./факс
++38 (061) 228-75-08
+<br>
+Приймальна комісія тел.
+(061) 228-75-38 та (061) 289-12-68
+<br>
+Офіційна пошта
+<img src="https://www.znu.edu.ua/frontpage/znumail.png" alt="Електронна пошта ЗНУ" style="display: inline-block;width: 109px; float: none;" /><br/>
+						<!--<a class="znu-2016-logo" href="//www.znu.edu.ua">© 2016 ЗНУ Запорізький національний університет, 69600, </a>
+                        <br>
+                        м. Запоріжжя, вул. Жуковського, 66, 
+                        <br>
+                        тел./факс
+                         +38 (061)228-75-08
+                        <br>
+                        Офіційна пошта 
+                        <a href="mailto:zv@znu.edu.ua">zv@znu.edu.ua</a><br/>-->
+                    </div>
+                    <div class="znu-2016-block-footer-col">
+                        <img src="//www.znu.edu.ua/cms/templates/znu12files/img/qr.gif" style="float:right;">
+<p>Документообіг
+<a href="http://docflow.znu.edu.ua/" target="_blank">docflow.znu.edu.ua</a></p>
+<p>Електронна пошта
+<a href="https://mail.znu.edu.ua" target="_blank">mail.znu.edu.ua</a></p>
+<p>Електронна скринька довіри <a href="mailto:dovira@znu.edu.ua">dovira@znu.edu.ua</a></p>
+<p>Технічна підтримка (звернення)
+<a href="http://help.znu.edu.ua/" target="_blank">help.znu.edu.ua</a></p>
+<p>Технічна підтримка
+<img src="https://www.znu.edu.ua/frontpage/webmastermail.png" alt="Технічна підтримка ЗНУ" style="display: inline-block;width: 159px; float: none;" /></p>
+<p><a class="social" href="https://twitter.com/ZNU_University" target="_blank"><i class="fa fa-twitter"></i></a>
+<a class="social" href="https://m.facebook.com/officіal.znu" target="_blank"><i class="fa fa-facebook-official"></i></a>
+<a class="social" href="https://t.me/official_znu" target="_blank"><i class="fa fa-paper-plane"></i></a>
+<a class="social" href="https://instagram.com/official_znu" target="_blank"><i class="fa fa-instagram"></i></a>
+<a class="social" href="https://www.youtube.com/channel/UCssEQlAzNOdGZmo2FZhfHgw" target="_blank"><i class="fa fa-youtube"></i></a>
+<a class="social" href="https://www.tiktok.com/@official_znu" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+width="30" height="30" viewBox="0 0 172 172" style=" fill:#000000;">
+<g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><path d="M0,172v-172h172v172z" fill="none"></path>
+<g fill="#ffffff"><path d="M137.6,22.93333h-103.2c-6.33533,0 -11.46667,5.13133 -11.46667,11.46667v103.2c0,6.33533 5.13133,11.46667 11.46667,11.46667h103.2c6.33533,0 11.46667,-5.13133 11.46667,-11.46667v-103.2c0,-6.33533 -5.13707,-11.46667 -11.46667,-11.46667zM130.0836,77.25093c-0.74533,0.0688 -1.4964,0.11467 -2.2532,0.11467c-8.57133,0 -16.10493,-4.4032 -20.49093,-11.07107c0,17.48093 0,37.3756 0,37.70813c0,15.394 -12.48147,27.86973 -27.86973,27.86973c-15.38827,-0.00573 -27.86973,-12.4872 -27.86973,-27.87547c0,-15.394 12.48147,-27.86973 27.86973,-27.86973c0.5848,0 1.1524,0.0516 1.72,0.086v13.73707c-0.57333,-0.0688 -1.12947,-0.172 -1.72,-0.172c-7.85467,0 -14.2244,6.36973 -14.2244,14.2244c0,7.85467 6.364,14.2244 14.2244,14.2244c7.8604,0 14.79773,-6.192 14.79773,-14.04667c0,-0.31533 0.1376,-64.04133 0.1376,-64.04133h13.1236c1.23267,11.73613 10.70987,21.0012 22.55493,21.84973z"></path>
+</g></g></svg></a></p>
+						<!--<img src="//www.znu.edu.ua/cms/templates/znu12files/img/qr.gif">
+                        Документообіг
+                        <a href="http://docflow.znu.edu.ua/" target="_blank">docflow.znu.edu.ua</a><br>
+                        Технічна підтримка (звернення)
+                        <a href="http://help.znu.edu.ua/" target="_blank">help.znu.edu.ua</a><br>
+
+                            Технічна підтримка
+                         <a href="mailto:webmaster@znu.edu.ua">webmaster@znu.edu.ua</a>
+                        <br>
+                        <a class="social" href="https://vk.com/znu_official" target="_blank"><i class="fa fa-vk"></i></a>
+                        <a class="social" href="https://www.facebook.com/univerzp" target="_blank"><i class="fa fa-facebook "></i></a>
+                        -->
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        
+        <script type="application/javascript" src="//www.znu.edu.ua/cms/templates/znu12files/js/jquery.min.js"></script>
+        <script type="application/javascript" src="//www.znu.edu.ua/cms/templates/znu12files/css/bootstrap-sass/javascripts/bootstrap.min.js"></script>
+        <script type="application/javascript" src="//www.znu.edu.ua/cms/templates/znu12files/js/custom.js"></script>
+   <!--/noindex-->
+    </body>
+</html>

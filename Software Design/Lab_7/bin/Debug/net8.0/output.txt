@@ -1,0 +1,5 @@
+Problem N - 2 result: 7
+Problem N - 1 result: 31
+Problem N result: 32
+Problem N + 1 result: 8
+Problem N + 2 result: -8

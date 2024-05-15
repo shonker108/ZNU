@@ -3,7 +3,7 @@ this is a second line
 a thirdGFDGDFGRET
 and
 so
-on
+on   --- новий текст ---
 
 тут є      український текст ґґґ український   український   
 

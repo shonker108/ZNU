@@ -1,0 +1,51 @@
+D:\repos\ZNU\Coursework\Courier delivery service app\bin\Debug\net8.0-windows\Courier delivery service app.exe
+D:\repos\ZNU\Coursework\Courier delivery service app\bin\Debug\net8.0-windows\Courier delivery service app.deps.json
+D:\repos\ZNU\Coursework\Courier delivery service app\bin\Debug\net8.0-windows\Courier delivery service app.runtimeconfig.json
+D:\repos\ZNU\Coursework\Courier delivery service app\bin\Debug\net8.0-windows\Courier delivery service app.dll
+D:\repos\ZNU\Coursework\Courier delivery service app\bin\Debug\net8.0-windows\Courier delivery service app.pdb
+D:\repos\ZNU\Coursework\Courier delivery service app\obj\Debug\net8.0-windows\Courier delivery service app.csproj.GenerateResource.cache
+D:\repos\ZNU\Coursework\Courier delivery service app\obj\Debug\net8.0-windows\Courier delivery service app.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\ZNU\Coursework\Courier delivery service app\obj\Debug\net8.0-windows\Courier delivery service app.AssemblyInfoInputs.cache
+D:\repos\ZNU\Coursework\Courier delivery service app\obj\Debug\net8.0-windows\Courier delivery service app.AssemblyInfo.cs
+D:\repos\ZNU\Coursework\Courier delivery service app\obj\Debug\net8.0-windows\Courier delivery service app.csproj.CoreCompileInputs.cache
+D:\repos\ZNU\Coursework\Courier delivery service app\obj\Debug\net8.0-windows\Courier delivery service app.sourcelink.json
+D:\repos\ZNU\Coursework\Courier delivery service app\obj\Debug\net8.0-windows\Courier delivery service app.dll
+D:\repos\ZNU\Coursework\Courier delivery service app\obj\Debug\net8.0-windows\refint\Courier delivery service app.dll
+D:\repos\ZNU\Coursework\Courier delivery service app\obj\Debug\net8.0-windows\Courier delivery service app.pdb
+D:\repos\ZNU\Coursework\Courier delivery service app\obj\Debug\net8.0-windows\Courier delivery service app.genruntimeconfig.cache
+D:\repos\ZNU\Coursework\Courier delivery service app\obj\Debug\net8.0-windows\ref\Courier delivery service app.dll
+D:\repos\ZNU\Coursework\Courier delivery service app\obj\Debug\net8.0-windows\Courier_delivery_service_app.Forms.LoginForm.resources
+D:\repos\ZNU\Coursework\Courier delivery service app\obj\Debug\net8.0-windows\Courier_delivery_service_app.Forms.ClientForm.resources
+D:\repos\ZNU\Coursework\Courier delivery service app\obj\Debug\net8.0-windows\Courier_delivery_service_app.Forms.CourierForm.resources
+D:\repos\ZNU\Coursework\Courier delivery service app\obj\Debug\net8.0-windows\Courier_delivery_service_app.Forms.AdminForm.resources
+D:\repos\ZNU\Coursework\Courier delivery service app\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\repos\ZNU\Coursework\Courier delivery service app\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\repos\ZNU\Coursework\Courier delivery service app\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\repos\ZNU\Coursework\Courier delivery service app\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\repos\ZNU\Coursework\Courier delivery service app\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\repos\ZNU\Coursework\Courier delivery service app\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\repos\ZNU\Coursework\Courier delivery service app\obj\Debug\net8.0-windows\Courier delivery service app.csproj.AssemblyReference.cache
+D:\repos\ZNU\Coursework\Courier delivery service app\obj\Debug\net8.0-windows\Courier delivery service app.csproj.CopyComplete
+D:\repos\ZNU\Coursework\Courier delivery service app\obj\Debug\net8.0-windows\Courier_delivery_service_app.Forms.QueriesForm.resources
+D:\repos\ZNU\Coursework\Courier delivery service app\obj\Debug\net8.0-windows\Courier_delivery_service_app.Forms.FilterForm.resources
+D:\repos\ZNU\Coursework\Courier delivery service app\obj\Debug\net8.0-windows\Courier_delivery_service_app.Forms.CourierStats.resources
+D:\repos\ZNU\Coursework\Courier delivery service app\bin\Debug\net8.0-windows\Google.Api.CommonProtos.dll
+D:\repos\ZNU\Coursework\Courier delivery service app\bin\Debug\net8.0-windows\Google.Api.Gax.dll
+D:\repos\ZNU\Coursework\Courier delivery service app\bin\Debug\net8.0-windows\Google.Api.Gax.Grpc.dll
+D:\repos\ZNU\Coursework\Courier delivery service app\bin\Debug\net8.0-windows\Google.Apis.dll
+D:\repos\ZNU\Coursework\Courier delivery service app\bin\Debug\net8.0-windows\Google.Apis.Auth.dll
+D:\repos\ZNU\Coursework\Courier delivery service app\bin\Debug\net8.0-windows\Google.Apis.Core.dll
+D:\repos\ZNU\Coursework\Courier delivery service app\bin\Debug\net8.0-windows\Google.Cloud.Iam.V1.dll
+D:\repos\ZNU\Coursework\Courier delivery service app\bin\Debug\net8.0-windows\Google.Cloud.Location.dll
+D:\repos\ZNU\Coursework\Courier delivery service app\bin\Debug\net8.0-windows\Google.Cloud.SecretManager.V1.dll
+D:\repos\ZNU\Coursework\Courier delivery service app\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\repos\ZNU\Coursework\Courier delivery service app\bin\Debug\net8.0-windows\Grpc.Auth.dll
+D:\repos\ZNU\Coursework\Courier delivery service app\bin\Debug\net8.0-windows\Grpc.Core.Api.dll
+D:\repos\ZNU\Coursework\Courier delivery service app\bin\Debug\net8.0-windows\Grpc.Net.Client.dll
+D:\repos\ZNU\Coursework\Courier delivery service app\bin\Debug\net8.0-windows\Grpc.Net.Common.dll
+D:\repos\ZNU\Coursework\Courier delivery service app\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\repos\ZNU\Coursework\Courier delivery service app\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\repos\ZNU\Coursework\Courier delivery service app\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\repos\ZNU\Coursework\Courier delivery service app\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\repos\ZNU\Coursework\Courier delivery service app\bin\Debug\net8.0-windows\System.Management.dll
+D:\repos\ZNU\Coursework\Courier delivery service app\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll

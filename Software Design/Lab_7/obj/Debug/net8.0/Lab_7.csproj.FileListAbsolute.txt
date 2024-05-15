@@ -1,0 +1,15 @@
+D:\repos\ZNU\Software Design\Lab_7\bin\Debug\net8.0\Lab_7.exe
+D:\repos\ZNU\Software Design\Lab_7\bin\Debug\net8.0\Lab_7.deps.json
+D:\repos\ZNU\Software Design\Lab_7\bin\Debug\net8.0\Lab_7.runtimeconfig.json
+D:\repos\ZNU\Software Design\Lab_7\bin\Debug\net8.0\Lab_7.dll
+D:\repos\ZNU\Software Design\Lab_7\bin\Debug\net8.0\Lab_7.pdb
+D:\repos\ZNU\Software Design\Lab_7\obj\Debug\net8.0\Lab_7.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\ZNU\Software Design\Lab_7\obj\Debug\net8.0\Lab_7.AssemblyInfoInputs.cache
+D:\repos\ZNU\Software Design\Lab_7\obj\Debug\net8.0\Lab_7.AssemblyInfo.cs
+D:\repos\ZNU\Software Design\Lab_7\obj\Debug\net8.0\Lab_7.csproj.CoreCompileInputs.cache
+D:\repos\ZNU\Software Design\Lab_7\obj\Debug\net8.0\Lab_7.sourcelink.json
+D:\repos\ZNU\Software Design\Lab_7\obj\Debug\net8.0\Lab_7.dll
+D:\repos\ZNU\Software Design\Lab_7\obj\Debug\net8.0\refint\Lab_7.dll
+D:\repos\ZNU\Software Design\Lab_7\obj\Debug\net8.0\Lab_7.pdb
+D:\repos\ZNU\Software Design\Lab_7\obj\Debug\net8.0\Lab_7.genruntimeconfig.cache
+D:\repos\ZNU\Software Design\Lab_7\obj\Debug\net8.0\ref\Lab_7.dll
