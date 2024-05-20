@@ -482,6 +482,52 @@ namespace Courier_delivery_service_app.src
             return new UserData(personId, email, password, fullName, phone, role);
         }
 
+        public static (UserData courier, List<Parcel> parcels) GetCourierAndHisParcels(int courierId)
+        {
+            const string query = "SELECT * FROM Person INNER JOIN Parcel ON Parcel.courierID = Person.ID WHERE Person.ID = @courierId";
+            SqlCommand command = new SqlCommand(query, connection);
+            command.Parameters.AddWithValue("courierId", courierId);
+
+            UserData? courier = null;
+            List<Parcel> parcels = new List<Parcel>();
+
+            using (SqlDataReader reader = command.ExecuteReader())
+            {
+                while (reader.Read())
+                {
+                    int id = (int)reader[0];
+                    string email = (string)reader[1];
+                    string password = (string)reader[2];
+                    string fullName = (string)reader[3];
+                    string phone = (string)reader[4];
+                    string role = (string)reader[5];
+
+                    if (courier == null) courier = new UserData(id, email, password, fullName, phone, role);
+
+                    int parcelId = (int)reader[6];
+                    int clientID = (int)reader[7];
+                    int? courierID = Convert.IsDBNull(reader[8]) ? null : (int?)reader[8];
+                    int statusID = (int)reader[9];
+                    DateTime statusDateTime = (DateTime)reader[10];
+                    Address sendingAddress = Address.ToAddress((string)reader[11]);
+                    Address arrivalAddress = Address.ToAddress((string)reader[12]);
+                    string recieverFullName = (string)reader[13];
+                    string recieverPhone = (string)reader[14];
+                    DateTime? acceptDateTime = Convert.IsDBNull(reader[15]) ? null : (DateTime?)reader[15];
+                    DateTime? sendingDateTime = Convert.IsDBNull(reader[16]) ? null : (DateTime?)reader[16];
+                    DateTime? arrivalDateTime = Convert.IsDBNull(reader[17]) ? null : (DateTime?)reader[17];
+                    double weight = (double)reader[18];
+                    int deliveryPrice = (int)reader[19];
+
+                    Parcel parcel = new(parcelId, clientID, courierID, statusID, statusDateTime, sendingAddress, arrivalAddress, recieverFullName, recieverPhone, acceptDateTime, sendingDateTime, arrivalDateTime, (float)weight, deliveryPrice);
+
+                    parcels.Add(parcel);
+                }
+            }
+
+            return (courier, parcels)!;
+        }
+
         // ParcelsStats - список з кількостями посилок до кожної категорії.
         // [0] - Всі загалом
         // [1] - Доставлені
@@ -489,16 +535,14 @@ namespace Courier_delivery_service_app.src
         // [3] - В дорозі
         public static (UserData courier, List<int> parcelsStats) GetCourierAndParcelsStats(int courierId, DateTime? from, DateTime? to)
         {
-            UserData courier = GetPerson(courierId);
-
-            List<Parcel> parcels = GetCourierParcels(courierId);
+            var data = GetCourierAndHisParcels(courierId);
 
             int countAll = 0;
             int countDelivered = 0;
             int countCanceled = 0;
             int countTransit = 0;
 
-            foreach (Parcel parcel in parcels)
+            foreach (Parcel parcel in data.parcels)
             {
                 DateTime? date = parcel.acceptDateTime;
 
@@ -535,7 +579,7 @@ namespace Courier_delivery_service_app.src
             parcelsStats.Add(countCanceled);
             parcelsStats.Add(countTransit);
 
-            return (courier, parcelsStats);
+            return (data.courier, parcelsStats);
         }
     }
 }

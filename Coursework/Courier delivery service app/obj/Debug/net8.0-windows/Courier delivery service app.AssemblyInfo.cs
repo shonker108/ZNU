@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Courier delivery service app")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d81e1ceca74d0c982a44cc4158f6166d3a3c3f23")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9277f2e033a37c6f8f1e80ffcfa3b4aed648ee14")]
 [assembly: System.Reflection.AssemblyProductAttribute("Courier delivery service app")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Courier delivery service app")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
